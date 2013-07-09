@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.4 on 2013-07-09 at 08:06 (EDT)-->
-<!--Last edited by Ukelele version 2.2.4 on 2013-07-09 at 08:29 (EDT)-->
+<!--Last edited by Ukelele version 2.2.4 on 2013-07-09 at 08:36 (EDT)-->
 <keyboard group="0" id="5591" name="Byxorna German" maxout="1">
     <layouts>
         <layout first="0" last="4" modifiers="84" mapSet="fb0"/>
@@ -162,7 +162,7 @@
             <key code="47" output="."/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action="5"/>
-            <key code="50" output="&#x003C;"/>
+            <key code="50" output="^"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
